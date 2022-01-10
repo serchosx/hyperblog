@@ -8,6 +8,7 @@ Este es un blog increíble para el [curso de Git y Github](https://platzi.com/cu
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
